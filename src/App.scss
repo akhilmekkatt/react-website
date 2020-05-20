@@ -1,0 +1,21 @@
+/* dependancies */
+@import "~bootstrap/scss/bootstrap";
+body{
+  margin:0px;
+  background-color: #000;
+  color: #fff;
+}
+h1,h2,h3,h4,h5,h6{
+  font-weight: 100;
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  p{
+    color:#2bb769;
+   
+  }
+}

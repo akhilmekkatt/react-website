@@ -1,12 +1,12 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hi I Am AKHIL</h1>
+      <h1>Hello All</h1>
       <p>Website under Construction</p>
-      <p>Email:akhilmekkatt@gmail.com</p>
+      <a href="https://github.com/akhilmekkatt">work</a>
     </div>
   );
 }
